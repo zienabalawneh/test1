@@ -1,0 +1,30 @@
+header {
+    background-color: crimson;
+    margin-top: -71px;
+}
+
+h1 {
+    text-align: center;
+    color: blueviolet;
+    font-size: 88px;
+}
+
+main {
+    margin-top: -71px;
+    background-image: url('https://static.vecteezy.com/system/resources/previews/001/984/880/original/abstract-colorful-geometric-overlapping-background-and-texture-free-vector.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+img {
+    height: 400px;
+    width: 400px;
+    margin-left: 550px;
+}
+
+footer p {
+    text-align: center;
+    color: blueviolet;
+    font-size: 88px;
+}
